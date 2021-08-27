@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://pbs.twimg.com/profile_banners/1368846801894313986/1628359197/600x200" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Israel</h1>
-<h3 align="center">I'm a success-driven, determined Frontend developer. I have experience using HTML Sass & Javascript to build accessible component-based web pages and systems. <br> A passionate person willing to learn to become a better developer than i was yesterday. So determined and result orietend. <br> <br> I'm a former professional football player changing career to IT and learn how technology evolves.</h3>
+<h3 align="left">I'm a success-driven, determined Frontend developer. I have experience using HTML Sass & Javascript to build accessible component-based web pages and systems. <br> A passionate person willing to learn to become a better developer than i was yesterday. So determined and result orietend. <br> <br> I'm a former professional football player changing career to IT and learn how technology evolves.</h3>
 
 <br>
  🙋‍♂️ About Me
