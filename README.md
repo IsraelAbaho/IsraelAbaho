@@ -4,7 +4,8 @@
 <h3 align="left">I'm a success-driven, determined Frontend developer. I have experience using HTML Sass & Javascript to build accessible component-based web pages and systems. <br> A passionate person willing to learn to become a better developer than i was yesterday. So determined and result orietend. <br> <br> I'm a former professional football player changing career to IT and learn how technology evolves.</h3>
 
 <br>
- 🙋‍♂️ About Me
+
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Orli Costruction Co Website](https://covid-19-tracker-e4bda.web.app/)** and **Personal Portfolio.**
 
