@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Orli Costruction Co Website](https://covid-19-tracker-e4bda.web.app/)** and **Personal Portfolio.**
+- 🔭 I’m currently working on **[Orli Costruction Co Website](https://github.com/IsraelAbaho/Construction-Company-Website)** and **Personal Portfolio.**
 
 - 🌱 I’m currently learning **JavaScript & React**
 
