@@ -7,17 +7,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Orli Costruction Co Website](https://github.com/IsraelAbaho/Construction-Company-Website)** and **Personal Portfolio.**
+- 🔭 I’m currently working on **[Restaurant Food Ordering Web Based System]** and **Personal Portfolio.**
 
-- 🌱 I’m currently learning **JavaScript & React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 I'm a passionate **[UI/UX designer](https://dribbble.com/Isratech_dribble)** and inspired to make my designs have a meaning in problem solving 
+- 👨‍💻 I'm a passionate **[Software Engineering]** and inspired to make my designs have a meaning in problem solving 
 
 - 📫 How to reach me **israelabaho@gmail.com**
 
-- ⚡ Fun fact **I'm a former professional football player changing career to Tech**
+- ⚡ Fun fact **I'm a former Graphics Designer football player changing career to Tech**
 <br> <br>
 
  ## 🚀 Languages and Tools:
